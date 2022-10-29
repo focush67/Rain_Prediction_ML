@@ -1,0 +1,45 @@
+Various Algorithms have been used on this Classification Problem , here are there accuracy scores (Acc_Sc) , alongwith their scores on Training Data (Train_Sc) and Testing Data (Test_Sc)
+
+1 - Logistic Regression (LR)
+    
+    Acc_Sc = 0.9898----
+    Train_Sc = 0.98----
+    Test_Sc = 0.98----
+
+2 - Stochastic Gradient Descent (SGD)
+    
+    Acc_Sc = 0.9729--
+    Train_Sc = 0.9863---
+    Test_Sc = 0.9729----
+
+3 - Random Forest Classifier (RFC)
+
+    Acc_Sc = 1.0
+    Train_Sc = 1.0
+    Test_Sc = 1.0
+
+4 - Decision Tree Classifier (DTC)
+
+    Acc_Sc = 1.0
+    Train_Sc = 1.0
+    Test_Sc = 1.0
+
+5 - Linear Support Vector Machine (Linear SVC)
+
+    Acc_Sc = 0.98648----
+    Train_Sc = 1.0
+    Test_Sc = 0.98648----
+
+6 - Gaussian Naive Bayes (GNB)
+
+    Acc_Sc = 0.918----
+    Train_Sc = 0.93493----
+    Test_Sc = 0.918----
+
+7 - K Nearest Neighbours (KNN)
+
+    Acc_Sc = 0.89189----
+    Train_Sc = 0.8869----
+    Test_Sc = 0.89189----
+    
+I have implemented my model using Logistic Regression (LR)
